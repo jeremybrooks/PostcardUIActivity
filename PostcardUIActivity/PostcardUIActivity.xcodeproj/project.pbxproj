@@ -77,7 +77,12 @@
 		7F98B4E517FBCF44003F7981 = {
 			isa = PBXGroup;
 			children = (
-				7F98B4F717FBCF44003F7981 /* Source */,
+				7F98B52017FBCF77003F7981 /* PostcardUIActivity.h */,
+				7F98B52117FBCF77003F7981 /* PostcardUIActivity.m */,
+				7F98B52317FBCFB6003F7981 /* PostcardUIActivity7@2x.png */,
+				7F98B52517FBCFC0003F7981 /* PostcardUIActivity@2x.png */,
+				7F98B52617FBCFC0003F7981 /* PostcardUIActivity7.png */,
+				7F98B52717FBCFC0003F7981 /* PostcardUIActivity.png */,
 				7F98B51017FBCF45003F7981 /* PostcardUIActivityTests */,
 				7F98B4F017FBCF44003F7981 /* Frameworks */,
 				7F98B4EF17FBCF44003F7981 /* Products */,
@@ -104,15 +109,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		7F98B4F717FBCF44003F7981 /* Source */ = {
-			isa = PBXGroup;
-			children = (
-				7F98B52B17FBD7AF003F7981 /* PostcardUIActivity */,
-			);
-			name = Source;
-			path = PostcardUIActivity;
-			sourceTree = "<group>";
-		};
 		7F98B51017FBCF45003F7981 /* PostcardUIActivityTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -129,19 +125,6 @@
 				7F98B51317FBCF45003F7981 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		7F98B52B17FBD7AF003F7981 /* PostcardUIActivity */ = {
-			isa = PBXGroup;
-			children = (
-				7F98B52017FBCF77003F7981 /* PostcardUIActivity.h */,
-				7F98B52117FBCF77003F7981 /* PostcardUIActivity.m */,
-				7F98B52317FBCFB6003F7981 /* PostcardUIActivity7@2x.png */,
-				7F98B52517FBCFC0003F7981 /* PostcardUIActivity@2x.png */,
-				7F98B52617FBCFC0003F7981 /* PostcardUIActivity7.png */,
-				7F98B52717FBCFC0003F7981 /* PostcardUIActivity.png */,
-			);
-			name = PostcardUIActivity;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
