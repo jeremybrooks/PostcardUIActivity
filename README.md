@@ -14,9 +14,12 @@ Next, download this project and drag the PostcardUIActivity folder to your appli
 Then, create an instance of PostcardUIActivity and add it to your UIActivityViewController
 before it is displayed:
 
-    PostcardUIActivity *postcardUIActivity = [[PostcardUIActivity alloc] initWithApplicationKey:@"YourApplicationKeyGoesHere"];    
-    UIActivityViewController *activityViewController = [[UIActivityViewController alloc] initWithActivityItems:@[yourImage]
-                                                                                         applicationActivities:@[postcardUIActivity]];
+    PostcardUIActivity *postcardUIActivity = 
+        [[PostcardUIActivity alloc] 
+            initWithApplicationKey:@"YourApplicationKeyGoesHere"];    
+    UIActivityViewController *activityViewController = 
+        [[UIActivityViewController alloc] initWithActivityItems:@[yourImage]
+                                          applicationActivities:@[postcardUIActivity]];
     [self presentViewController:activityViewController
                        animated:YES
                      completion:nil];
