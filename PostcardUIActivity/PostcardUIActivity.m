@@ -112,7 +112,7 @@
 
 + (UIActivityCategory)activityCategory
 {
-    return UIActivityCategoryShare;
+    return UIActivityCategoryAction;
 }
 
 
