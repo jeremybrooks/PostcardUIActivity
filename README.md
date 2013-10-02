@@ -3,7 +3,7 @@ PostcardUIActivity
 
 A UIActivity that launches the Sincerely postcard ordering process from a UIActivityViewController.
 
-![](http://farm8.staticflickr.com/7426/10048377684_209a3a94e1.jpg)
+![](http://farm8.staticflickr.com/7426/10048377684_7263ca1ecf_z.jpg)
 
 This has been tested on iPhones running iOS7. If you try it on a different device or iOS version,
 let me know how it works for you!
