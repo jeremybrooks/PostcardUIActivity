@@ -11,7 +11,7 @@ First, you need an Application Key from Sincerely. You can get an Application Ke
 http://dev.sincerely.com and requesting one. Follow their instructions for adding ShipLib to
 your project.
 
-Next, download this project and drag the PostcardUIActivity folder to your application.
+Next, download this project and drag the .h, .m, and .png files to your application.
 
 Then, create an instance of PostcardUIActivity and add it to your UIActivityViewController
 before it is displayed:
