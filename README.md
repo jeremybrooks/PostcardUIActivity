@@ -5,6 +5,10 @@ A UIActivity that launches the Sincerely postcard ordering process from a UIActi
 
 ![](http://farm8.staticflickr.com/7426/10048377684_209a3a94e1.jpg)
 
+This has been tested on iPhones running iOS7. If you try it on a different device or iOS version,
+let me know how it works for you!
+
+
 How To Use It
 =============
 First, you need an Application Key from Sincerely. You can get an Application Key by going to 
@@ -45,3 +49,5 @@ supported objects.
     UIImage *image = [UIImage imageNamed@"SomeImage"];
     NSURL *imageUrl = [NSURL fileURLWithPath:[NSHomeDirectory() stringByAppendingPathComponent:@"tmp/image.jpg"]
                                  isDirectory:NO];
+
+
