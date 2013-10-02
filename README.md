@@ -3,8 +3,10 @@ PostcardUIActivity
 
 A UIActivity that launches the Sincerely postcard ordering process from a UIActivityViewController.
 
+![](http://farm8.staticflickr.com/7426/10048377684_209a3a94e1.jpg)
 
-# Using In Your Project
+Using In Your Project
+=====================
 First, you need an Application Key from Sincerely. You can get an Application Key by going to 
 http://dev.sincerely.com and requesting one. Follow their instructions for adding ShipLib to
 your project.
@@ -26,8 +28,8 @@ before it is displayed:
 
 
 
-#License
-
+License
+=======
  The MIT License (MIT)
  
  Copyright (c) 2013 Jeremy Brooks
